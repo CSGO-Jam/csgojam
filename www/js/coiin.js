@@ -12,12 +12,14 @@ var a=1;
 
 // }
 function flipc () {
+	//alert('c');
 	document.getElementById("c").style.animationPlayState = "paused";
 }
+
 function flipt () {
-	document.getElementById("#t").stop();	
+	document.getElementById("t").style.animationPlayState = "paused";	
 }
 function fliph () {
-	document.getElementById("#h").stop();	
+	document.getElementById("h").style.animationPlayState = "paused";	
 }
 
