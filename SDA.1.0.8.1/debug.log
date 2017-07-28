@@ -1,0 +1,66 @@
+[0726/113006.394:WARNING:resource_bundle.cc(327)] locale_file_path.empty() for locale 
+[0726/113006.394:ERROR:main_delegate.cc(684)] Could not load locale pak for en-US
+[0726/113006.394:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0726/113006.453:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0726/113006.475:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[0726/113006.475:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[0726/113006.476:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[0726/113006.476:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[0726/113006.476:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[0726/113006.505:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[0726/113006.505:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[0726/113006.505:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[0726/113006.505:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[0726/113006.505:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[0726/113006.505:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[0726/113006.506:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[0726/113006.506:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[0726/113006.506:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[0726/113006.506:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[0726/113006.506:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[0726/113006.506:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[0726/113006.506:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[0726/113006.506:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[0726/113006.506:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[0726/113006.506:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[0726/113006.506:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[0726/113006.506:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[0726/113006.506:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[0726/113006.506:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[0726/113006.506:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[0726/113006.506:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[0726/113006.506:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[0726/113006.506:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[0726/113006.506:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[0726/113006.506:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[0726/113006.506:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[0726/113006.506:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[0726/113006.506:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[0726/113006.506:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[0726/113006.506:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[0726/113006.506:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[0726/113006.506:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[0726/113006.506:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[0726/113006.507:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[0726/113006.507:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[0726/113006.507:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[0726/113006.507:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[0726/113006.508:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[0726/113006.620:WARNING:resource_bundle.cc(327)] locale_file_path.empty() for locale 
+[0726/113006.620:ERROR:main_delegate.cc(684)] Could not load locale pak for en-US
+[0726/113006.620:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0726/113006.748:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0726/113007.677:WARNING:resource_bundle.cc(327)] locale_file_path.empty() for locale 
+[0726/113007.677:ERROR:main_delegate.cc(684)] Could not load locale pak for en-US
+[0726/113007.678:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0726/113007.688:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[0726/113007.688:WARNING:resource_bundle.cc(525)] locale resources are not loaded
+[0726/113011.455:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0726/113016.458:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0726/113021.465:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0726/113025.318:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0726/113025.334:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0726/113234.354:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0726/113234.424:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0726/113341.803:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0726/113341.813:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
